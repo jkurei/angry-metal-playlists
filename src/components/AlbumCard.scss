@@ -1,0 +1,31 @@
+.AlbumCard {
+  .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    h1 {
+      margin: 0;
+      font-size: 22px;
+    }
+    p {
+      margin: 0;
+      font-size: 16px;
+    }
+    .links {
+      a {
+        display: flex;
+        align-content: flex-end;
+        align-items: flex-end;
+        img {
+          height: 26px;
+          width: 26px;
+          margin-right: 4px;
+        }
+        span {
+          padding-bottom: 2px;
+        }
+      }
+    }
+  }
+}

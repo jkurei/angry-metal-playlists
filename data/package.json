@@ -1,0 +1,20 @@
+{
+  "name": "amgp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "handlebars": "^4.1.2",
+    "json-beautify": "^1.0.1",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0",
+    "spotify-wrapper": "^2.1.0"
+  },
+  "devDependencies": {}
+}

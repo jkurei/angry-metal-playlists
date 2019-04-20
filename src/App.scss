@@ -1,0 +1,43 @@
+@import "./index.scss";
+
+.App-header {
+  margin: 0;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  width: 100%;
+  z-index: 5;
+  
+  box-sizing: border-box;
+  
+  h1 { margin: 0; }
+}
+
+.App > .layout {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: stretch;
+  
+  > nav.sidebar {
+    width: 200px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 0;
+    
+    ul {
+      position: sticky;
+      top: 61px;
+      padding: 10px;
+      margin: 0;
+      list-style: none;
+    }
+    
+    border-right: 1px solid grey;
+  }
+  
+  > main {
+    margin-left: 15px;
+  }
+}
