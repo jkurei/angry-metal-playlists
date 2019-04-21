@@ -4,6 +4,7 @@
 
 - [x] write some intro
 - [x] fix the nav inside Home
+- [ ] write a deploy script
 - [ ] links to AMG itself
 - [ ] link to spotify playlists
   - [ ] update the spotify playlists
@@ -21,7 +22,10 @@
 npm run build
 rm -rf docs
 mv build docs
+
+# this would be better done with sed!
 vim docs/index.html # remove /jkurei
+
 npm run deploy
 ```
 
