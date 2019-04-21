@@ -15,6 +15,14 @@
 - [ ] analyitics?
 - [ ] with/out runner-ups
 
+## How to deploy
+
+```bash
+npm run build
+mv build docs
+vim docs/index.html # remove /jkurei
+npm run deploy
+```
 
 ## Available Scripts
 
