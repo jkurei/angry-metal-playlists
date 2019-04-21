@@ -48,8 +48,8 @@ function List(props) {
         )
       }
       
-      <h1>{props.match.params.id}</h1>
-      <Json src={{ props, list, months }} collapsed={1} />
+      <h3>Debugging information</h3>
+      <Json src={{ props, list, months, listId: props.match.params.id }} collapsed={1} />
     </div>
   )
 }
