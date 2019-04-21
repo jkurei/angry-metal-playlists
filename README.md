@@ -19,6 +19,7 @@
 
 ```bash
 npm run build
+rm -rf docs
 mv build docs
 vim docs/index.html # remove /jkurei
 npm run deploy
