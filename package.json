@@ -18,8 +18,9 @@
     "spotify-wrapper": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "//predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "postdeploy": "rm -rf docs ; mv build docs",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
