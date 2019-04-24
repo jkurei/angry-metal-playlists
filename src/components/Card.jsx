@@ -2,7 +2,7 @@ import React from "react"
 
 import "./Card.scss"
 
-function Card({ imgSrc, text, width, className }) {
+function Card({ imgSrc, text, width, className, badge }) {
   return (
   <aside 
     className={"Card " + className} 
@@ -11,6 +11,11 @@ function Card({ imgSrc, text, width, className }) {
     <div className="text">
       {text}
     </div>
+    {
+      badge && (
+        <div className="badge">{badge}</div>
+      )
+    }
   </aside>
   )
 }

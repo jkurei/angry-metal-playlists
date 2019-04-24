@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jkurei/angry-metal-playlists/precache-manifest.35911e6782d8d0bad8b29edfa735e2a0.js"
+  "/jkurei/angry-metal-playlists/precache-manifest.33c287c2de500faff422e523841571ca.js"
 );
 
 workbox.clientsClaim();

@@ -3,9 +3,12 @@ import { chain, keys } from "lodash"
 import { Link } from "react-router-dom"
 import beautify from "json-beautify"
 import Json from 'react-json-view'
+import Markdown from "react-markdown"
 
 import AlbumCard from "../components/AlbumCard"
 import lists from "../data.js"
+
+// #TODO shouldnt use the monthly flag, but detect sections
 
 function List(props) {
   // return (
@@ -29,12 +32,17 @@ function List(props) {
     <div>
       <h1>{list.title}</h1>
       {
+        list.description && (
+          <Markdown source={list.description} />
+        )
+      }
+      {
         list.monthly && months.map(month => (
           <section>
             <h2>{month}</h2>
             {
               list.items.filter(a => a.section == month).map((a, i) => (
-                <AlbumCard album={a} />
+                <AlbumCard key={a.title} album={a} />
               ))
             }
           </section>
@@ -43,7 +51,7 @@ function List(props) {
       {
         !list.monthly && (
           list.items.map((a, i) => (
-            <AlbumCard album={a} />
+            <AlbumCard key={a.title} album={a} />
           ))
         )
       }

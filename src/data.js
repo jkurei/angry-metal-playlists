@@ -4,10 +4,13 @@ export default [
     "title": "Aggregated Top 10(ish) of 2017",
     "monthly": false,
     "amgUrl": "https://www.angrymetalguy.com/angrymetalguy-coms-aggregated-top-10ish-of-2017-the-list-to-end-all-lists/",
+    "description": `
+["The List to End All Lists"](https://www.angrymetalguy.com/angrymetalguy-coms-aggregated-top-10ish-of-2017-the-list-to-end-all-lists/)
+`,
     "items": [
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "1",
         "artist": "Lör",
         "album": "In Forgotten Sleep",
@@ -17,7 +20,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "2",
         "artist": "The Night Flight Orchestra",
         "album": "Amber Galactic",
@@ -27,7 +30,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "3",
         "artist": "Caligula’s Horse",
         "album": "In Contact",
@@ -37,7 +40,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "4",
         "artist": "Spirit Adrift",
         "album": "Curse of Conception",
@@ -47,7 +50,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "5",
         "artist": "Unleash the Archers",
         "album": "Apex",
@@ -57,7 +60,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "6",
         "artist": "Æther Realm",
         "album": "Tarot",
@@ -67,7 +70,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "7",
         "artist": "Archspire",
         "album": "Relentless Mutation",
@@ -77,7 +80,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "8",
         "artist": "Converge",
         "album": "The Dusk in Us",
@@ -87,7 +90,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "9",
         "artist": "Pain of Salvation",
         "album": "In the Passing Light of Day",
@@ -97,7 +100,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "10",
         "artist": "Akercocke",
         "album": "Renaissance in Extremis",
@@ -107,7 +110,7 @@ export default [
       },
       {
         "list": "meta2017",
-        "section": "\"\"",
+        "section": "",
         "rank": "ish",
         "artist": "Sorcerer",
         "album": "The Crowning of the Fire King",
@@ -119,128 +122,133 @@ export default [
   },
   {
     "id": "year2018",
-    "title": "Angry Metal Guy’s Top 10 of 2017",
+    "title": "Angry Metal Guy’s Top 10 of 2018",
     "monthly": false,
     "amgUrl": "https://www.angrymetalguy.com/angry-metal-guys-top-10ish-of-2018/",
+    "description": `
+[LINK](https://www.angrymetalguy.com/angry-metal-guys-top-10ish-of-2018/)
+
+I haven't yet included here the Honorable Mentions, nor the Disappointments. 
+`, 
     "items": [
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "1",
         "artist": "Hamferð",
         "album": "Támsins likam",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/01/Hamferd_-_Tamsins_Likam.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/hamferd-tamsins-likam-review/",
         "spotifyUrl": "https://open.spotify.com/album/4I4y5ROqCjkbzn5ap7lS49"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "2",
         "artist": "Michael Romeo",
-        "album": "\"War of the Worlds",
-        "thumbnailUrl": "Part 1\"",
-        "amgUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/07/Michael-Romeo-War-of-the-Worlds-Pt-1-768x768.jpg",
+        "album": "War of the Worlds, Part 1",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/07/Michael-Romeo-War-of-the-Worlds-Pt-1-768x768.jpg",
+        "amgUrl": "https://www.angrymetalguy.com/michael-romeo-war-worlds-review/",
         "spotifyUrl": "https://open.spotify.com/album/04o6FiG4pP5PZTEWkkqlcD"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "3",
         "artist": "Barren Earth",
         "album": "A Complex of Cages",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/03/Barren-Earth_A-Complex-of-Cages-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/barren-earth-a-complex-of-cages-review/",
         "spotifyUrl": "https://open.spotify.com/album/08CmNsvDGtbtRO83rNLXl4"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "4",
         "artist": "Amorphis",
         "album": "Queen of Time — Queen of Time",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/05/Amorphis-Queen-of-Time-Web.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/amorphis-queen-of-time-review/",
         "spotifyUrl": "https://open.spotify.com/album/6bQKFlXjvu5zynMS86XxlR"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "5",
         "artist": "De Profundis",
         "album": "The Blinding Light of Faith",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/12/deprofundis-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/ridiculous-year-o-death-metal-round-up-part-1-things-you-might-have-missed-2018/",
         "spotifyUrl": "https://open.spotify.com/album/2v74wMkqHlHmW19eJH6p2i"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "6",
         "artist": "Riverside",
         "album": "Wasteland",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/09/Press_Cover_01-1-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/riverside-wasteland-review/",
         "spotifyUrl": "https://open.spotify.com/album/2x2TYXmboFBDvZnSPK15B2"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "7",
         "artist": "Gorod",
         "album": "Æthra",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/10/Gorod-Æthra-768x772.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/gorod-aethra-review/",
         "spotifyUrl": "https://open.spotify.com/album/5XZmjfpxRFqhv4iv2GDjYV"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "8",
         "artist": "Orphaned Land",
         "album": "Unsung Prophets & Dead Messiahs",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/01/Orphaned-Land-Unsung-Prophets-and-Dead-Messiahs-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/orphaned-land-unsung-prophets-dead-messiahs-review/",
         "spotifyUrl": "https://open.spotify.com/album/7ud8TDf12TNhUDNrlNLF4s"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "9",
         "artist": "Obscura",
         "album": "Diluvium",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/07/Obscura-Diluvium-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/obscura-diluvium-review/",
         "spotifyUrl": "https://open.spotify.com/album/22aOHbzooK2pUGuKvsSU6w"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "10",
         "artist": "Satan",
         "album": "Cruel Magic",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/09/Satan-Cruel-Magic-01-768x768.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/satan-cruel-magic-review/",
         "spotifyUrl": "https://open.spotify.com/album/7KdiGTiJKqcgaV9BboPdtq"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "ish",
         "artist": "1914",
         "album": "The Blind Leading the Blind",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/11/536040-300x300.jpg",
-        "amgUrl": "",
-        "spotifyUrl": null
+        "amgUrl": "https://www.angrymetalguy.com/1914-the-blind-leading-the-blind-review/",
+        "spotifyUrl": "https://open.spotify.com/album/60bjl0P2wg5R6eZZB57EQc?si=DM0puOlSRZuSiQPqGWz20w"
       },
       {
         "list": "year2018",
-        "section": "\"\"",
+        "section": "",
         "rank": "ish",
         "artist": "Between the Buried and Me",
         "album": "Automata II",
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/07/BTBAM-Automata-II-01-300x300.jpg",
-        "amgUrl": "",
+        "amgUrl": "https://www.angrymetalguy.com/between-the-buried-and-me-automata-ii-review/",
         "spotifyUrl": "https://open.spotify.com/album/0IwxzTQlZdpwENSg05bcVN"
       }
     ]
@@ -250,6 +258,13 @@ export default [
     "title": "Records of the Month for 2018",
     "monthly": true,
     "amgUrl": "",
+    "description": `
+Spotify playlists:
+
+- [With runner-ups](https://open.spotify.com/user/asfgeab/playlist/2tBK2dnMw3YdAI748BMXjt?si=azisJLuuTbKfzSXQiES3SQ)
+- [Without runner-ups](https://open.spotify.com/user/asfgeab/playlist/59Qnc2D18S36XW0GmFlZer?si=uNF2-W7ZSlGp16QS3eMGgw)
+
+`,
     "items": [
       {
         "list": "monthly2018",
@@ -549,6 +564,119 @@ export default [
         "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/10/Psycroptic-As-the-Kingdom-Drowns-Cover-768x768.jpg",
         "spotifyUrl": "https://open.spotify.com/album/178MVoPdEAX4Ri7m030WnN"
       }
+    ]
+  },
+  {
+    "id": "monthly2019",
+    "title": "Records of the Month for 2019",
+    "monthly": true,
+    "amgUrl": "",
+    "description": `
+Spotify playlists: coming soon (?)
+
+AMG's articles: [January](https://www.angrymetalguy.com/records-o-the-month-january-2019/), [February](https://www.angrymetalguy.com/records-o-the-month-february-2019/), [March](https://www.angrymetalguy.com/records-o-the-month-march-2019/)
+`,
+    "items": [
+      {
+        "list": "monthly2019",
+        "section": "January",
+        "rank": "1",
+        "artist": "Musmahhü",
+        "album": "Reign of the Odious",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/01/Musmahhu-Reign-of-the-Odius.png",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/musmahhu-reign-of-the-odious-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "January",
+        "rank": "runner-up",
+        "artist": "Soilwork",
+        "album": "Verkligheten",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/01/Soilwork-Verkligheten-01-1-768x768.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/soilwork-verkligheten-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "January",
+        "rank": "runner-up",
+        "artist": "A Swarm of the Sun",
+        "album": "The Woods",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2018/12/A-Swarm-of-the-Sun_The-Woods-768x768.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/a-swarm-of-the-sun-the-woods-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "February",
+        "rank": "1",
+        "artist": "Soen",
+        "album": "Lotus",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/01/Soen-Lotus-01.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/soen-rival-premiere-lotus-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "February",
+        "rank": "runner-up",
+        "artist": "Avantasia",
+        "album": "Moonglow",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/02/Avantasia_Moonglow-768x768.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/avantasia-moonglow-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "February",
+        "rank": "runner-up",
+        "artist": "Vanum",
+        "album": "Ageless Fire",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/02/239960-300x300.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/vanum-ageless-fire-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "March",
+        "rank": "1",
+        "artist": "Aephanemer",
+        "album": "Prokopton",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/03/cover_1400x1265.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/aephanemer-prokopton-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "March",
+        "rank": "runner-up",
+        "artist": "Sermon",
+        "album": "Birth of the Marvellous",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/03/Sermon-Birth-of-the-Marvellous-01-300x300.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/sermon-birth-of-the-marvellous-review/"
+      },
+      {
+        "list": "monthly2019",
+        "section": "March",
+        "rank": "runner-up",
+        "artist": "Venom Prison",
+        "album": "Samsara",
+        "thumbnailUrl": "https://www.angrymetalguy.com/wp-content/uploads/2019/03/cover-300x300.jpg",
+        "spotifyUrl": "",
+        amgUrl: "https://www.angrymetalguy.com/venom-prison-samsara-review/"
+      },
+      // {
+      //   "list": "monthly2019",
+      //   "section": "",
+      //   "rank": "runner-up",
+      //   "artist": "",
+      //   "album": "",
+      //   "thumbnailUrl": "",
+      //   "spotifyUrl": "",
+      //   amgUrl: ""
+      // },
     ]
   }
 ]

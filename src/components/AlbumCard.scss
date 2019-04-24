@@ -13,8 +13,11 @@
       font-size: 16px;
     }
     .links {
+      a:not(:first-child) {
+        margin-left: 6px;
+      }
       a {
-        display: flex;
+        display: inline flex;
         align-content: flex-end;
         align-items: flex-end;
         img {

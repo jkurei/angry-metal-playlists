@@ -22,10 +22,8 @@
 npm run build
 rm -rf docs
 mv build docs
-
-# this would be better done with sed!
-vim docs/index.html # remove /jkurei
-
+sed -i 's./jkurei..' docs/index.html
+# vim docs/index.html # remove /jkurei
 npm run deploy
 ```
 
